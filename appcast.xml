@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle" xmlns:dc="http://purl.org/dc/elements/1.1/">
+  <channel>
+    <title>CopyFix</title>
+    <link>https://github.com/CopyFixApp/CopyFixReleases</link>
+    <description>Most recent changes for CopyFix.</description>
+    <language>en</language>
+    <item>
+      <title>Version 1.0.0</title>
+      <pubDate>Sat, 11 Apr 2026 17:04:57 +0700</pubDate>
+      <enclosure
+        url="https://github.com/CopyFixApp/CopyFixReleases/releases/download/v1.0.0/CopyFix.zip"
+        sparkle:edSignature="yNDgBf+p4TaC8oJw0G3jw8xhsDsvBCV23QBe9hONJX51laZpgfp1QupBVLH+9kz2jYBOf0keGGaq8HoU1065AA==" length="8178689"
+        type="application/octet-stream"
+        sparkle:version="1.0.0"
+        sparkle:shortVersionString="1.0.0"
+      />
+    </item>
+    <item>
+      <title>Version 1.0.1</title>
+      <pubDate>Sat, 11 Apr 2026 17:26:23 +0700</pubDate>
+      <enclosure
+        url="https://github.com/CopyFixApp/CopyFixReleases/releases/download/v1.0.1/CopyFix.zip"
+        sparkle:edSignature="DCFkaJ4Uyuxk/pgaYbNALGn67bvhPsV6P4x9Ee4Ka/sEssIP2YAqLmrktQk7zESYDTQBwNg1gLhZJpc0aFNxAw==" length="8178749"
+        type="application/octet-stream"
+        sparkle:version="1.0.1"
+        sparkle:shortVersionString="1.0.1"
+      />
+    </item>
+    <item>
+      <title>Version 1.0.3</title>
+      <pubDate>Sat, 11 Apr 2026 17:47:55 +0700</pubDate>
+      <enclosure
+        url="https://github.com/CopyFixApp/CopyFixReleases/releases/download/v1.0.3/CopyFix.zip"
+        sparkle:edSignature="Z0Oqsg6728weUEep0Ubiis9EkNCEKdQf5694+wh48gic6IJKnGZnsz5rTNo4MVAygUTcUygx65odFcph8+zdBQ==" length="8178803"
+        type="application/octet-stream"
+        sparkle:version="1.0.3"
+        sparkle:shortVersionString="1.0.3"
+      />
+    </item>
+  </channel>
+</rss>
