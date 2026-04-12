@@ -335,5 +335,27 @@
         sparkle:shortVersionString="1.0.33"
       />
     </item>
+    <item>
+      <title>Version 1.0.35-beta.1</title>
+      <pubDate>Sun, 12 Apr 2026 21:37:09 +0700</pubDate>
+      <enclosure
+        url="https://github.com/CopyFixApp/CopyFixBetaReleases/releases/download/v1.0.35-beta.1/CopyFix.zip"
+        sparkle:edSignature="xChf8sZx1ck1hE2WpwwEpSBjaPziKiynUQ3X54NE8TkUq5x8rbZTQmgGq9inUPB6xF3qu5JhWD7EBk1Kp2q2Aw==" length="8057930"
+        type="application/octet-stream"
+        sparkle:version="1.0.35-beta.1"
+        sparkle:shortVersionString="1.0.35-beta.1"
+      />
+    </item>
+    <item>
+      <title>Version 1.0.35</title>
+      <pubDate>Sun, 12 Apr 2026 21:42:09 +0700</pubDate>
+      <enclosure
+        url="https://github.com/CopyFixApp/CopyFixReleases/releases/download/v1.0.35/CopyFix.zip"
+        sparkle:edSignature="oZ+bEiIdsSNme/heOxdPyPwG+XHT0iBAG2gK+IeLrGgZokQBUs7+QRSMx1/uI5R8H/SfDL34aL6RfOZfY4lDDw==" length="8057793"
+        type="application/octet-stream"
+        sparkle:version="1.0.35"
+        sparkle:shortVersionString="1.0.35"
+      />
+    </item>
   </channel>
 </rss>
