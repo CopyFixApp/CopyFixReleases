@@ -9,7 +9,7 @@
       <title>Version 1.0.36-dev</title>
       <pubDate>Sun, 12 Apr 2026 21:52:29 +0700</pubDate>
       <enclosure
-        url="https://github.com/CopyFixApp/CopyFixDevReleases/releases/download/v1.0.36-dev/CopyFix.zip"
+        url="https://github.com/CopyFixApp/CopyFixReleases/releases/download/v1.0.36-dev/CopyFix.zip"
         sparkle:edSignature="6o1HpfWHYUYfBbVP68EP14skp4z7Do3y5eHXLuZ/I1gW3az/0dnjgO2YGLE0skQ1GHlsZXI0cCAxSwW/AqKJDA==" length="8055950"
         type="application/octet-stream"
         sparkle:version="1.0.36-dev"
@@ -20,7 +20,7 @@
       <title>Version 1.0.37-dev</title>
       <pubDate>Sun, 12 Apr 2026 22:01:51 +0700</pubDate>
       <enclosure
-        url="https://github.com/CopyFixApp/CopyFixDevReleases/releases/download/v1.0.37-dev/CopyFix.zip"
+        url="https://github.com/CopyFixApp/CopyFixReleases/releases/download/v1.0.37-dev/CopyFix.zip"
         sparkle:edSignature="EhGO6qIX55F+Sgd5tpLU6rjyaR1gi12Oj9z5kQrRKnM3zmTpmOLzCpMk182ARoi6I72sXAn6Vs91chUpjeqZAw==" length="8058287"
         type="application/octet-stream"
         sparkle:version="1.0.37-dev"
@@ -36,6 +36,17 @@
         type="application/octet-stream"
         sparkle:version="1.0.38-dev"
         sparkle:shortVersionString="1.0.38-dev"
+      />
+    </item>
+    <item>
+      <title>Version 1.0.39-dev</title>
+      <pubDate>Sun, 12 Apr 2026 23:04:22 +0700</pubDate>
+      <enclosure
+        url="https://github.com/CopyFixApp/CopyFixReleases/releases/download/v1.0.39-dev/CopyFix.zip"
+        sparkle:edSignature="Jf347skMEuYTecXuCULKSl0MuABdJPRfUe+tnr8c+bHFHgvK6HxYAKzsi+QNQ0/V7WAlePXuWLsqnHcIt6JDDQ==" length="8061533"
+        type="application/octet-stream"
+        sparkle:version="1.0.39-dev"
+        sparkle:shortVersionString="1.0.39-dev"
       />
     </item>
   </channel>
