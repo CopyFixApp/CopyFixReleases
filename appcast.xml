@@ -412,5 +412,16 @@
         sparkle:shortVersionString="1.0.70"
       />
     </item>
+    <item>
+      <title>Version 1.0.71</title>
+      <pubDate>Wed, 29 Apr 2026 00:46:09 +0700</pubDate>
+      <enclosure
+        url="https://github.com/CopyFixApp/CopyFixReleases/releases/download/v1.0.71/CopyFix.zip"
+        sparkle:edSignature="aeBqFUSVDq/mVOTwlQS78fAdb4OP4H2aNSI2b14GTVFRiWYUc3POBdXA1n2BpmwjQDivQnzw/dDDHZB1ZrO6BQ==" length="8109777"
+        type="application/octet-stream"
+        sparkle:version="1.0.71"
+        sparkle:shortVersionString="1.0.71"
+      />
+    </item>
   </channel>
 </rss>
