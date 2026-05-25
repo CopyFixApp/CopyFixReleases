@@ -522,5 +522,20 @@
         sparkle:shortVersionString="1.0.101"
       />
     </item>
+    <item>
+      <title>Version 1.0.104</title>
+      <pubDate>Tue, 26 May 2026 01:24:36 +0700</pubDate>
+      <sparkle:fullReleaseNotesLink>https://github.com/CopyFixApp/CopyFixReleases/releases</sparkle:fullReleaseNotesLink>
+      <description sparkle:descriptionFormat="plain-text"><![CDATA[
+Fix bugs and improve performance and stability.
+      ]]></description>
+      <enclosure
+        url="https://github.com/CopyFixApp/CopyFixReleases/releases/download/v1.0.104/CopyFix.zip"
+        sparkle:edSignature="rdLyPQGm10yCA723drNhTEpFjj+5ZBGZBBV3shGBj6eegoFutQbm1V3+KG7thIKPwmSoN/OLyVGCuqTflq/zAQ==" length="8375815"
+        type="application/octet-stream"
+        sparkle:version="1.0.104"
+        sparkle:shortVersionString="1.0.104"
+      />
+    </item>
   </channel>
 </rss>
