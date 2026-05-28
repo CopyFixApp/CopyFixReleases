@@ -795,5 +795,20 @@ Fix bugs and improve performance and stability.
         sparkle:shortVersionString="1.0.106-dev"
       />
     </item>
+    <item>
+      <title>Version 1.0.107-dev</title>
+      <pubDate>Thu, 28 May 2026 10:43:27 +0700</pubDate>
+      <sparkle:fullReleaseNotesLink>https://github.com/CopyFixApp/CopyFixReleases/releases</sparkle:fullReleaseNotesLink>
+      <description sparkle:descriptionFormat="plain-text"><![CDATA[
+Fix bugs and improve performance and stability.
+      ]]></description>
+      <enclosure
+        url="https://github.com/CopyFixApp/CopyFixReleases/releases/download/v1.0.107-dev/CopyFix.zip"
+        sparkle:edSignature="Qde/8hBjtBwUeU2YSVc8eZWnkg9nNaRFaqO97ARe293L6O9Sa2/CKQbYF5UlqP6ggodmyJummNmAKd+GgR6IBQ==" length="8387775"
+        type="application/octet-stream"
+        sparkle:version="1.0.107-dev"
+        sparkle:shortVersionString="1.0.107-dev"
+      />
+    </item>
   </channel>
 </rss>
