@@ -810,5 +810,22 @@ Fix bugs and improve performance and stability.
         sparkle:shortVersionString="1.0.107-dev"
       />
     </item>
+    <item>
+      <title>Version 1.0.108-dev</title>
+      <pubDate>Sun, 31 May 2026 12:48:52 +0700</pubDate>
+      <sparkle:fullReleaseNotesLink>https://github.com/CopyFixApp/CopyFixReleases/releases</sparkle:fullReleaseNotesLink>
+      <description sparkle:descriptionFormat="plain-text"><![CDATA[
+- Added source details for clipboard items, so you can see where something came from, including the app, window, page, file, or document when available.
+- Refined the user experience and improved performance and stability.
+
+      ]]></description>
+      <enclosure
+        url="https://github.com/CopyFixApp/CopyFixReleases/releases/download/v1.0.108-dev/CopyFix.zip"
+        sparkle:edSignature="YOoOYE7X4dpD/rfi7lEI3Hy56DqrRg0VLq0Ue3u06Z3eRyvMfW7466F7o3rcLBhD33/j3iEk3tm0NosNGHfVDQ==" length="8434535"
+        type="application/octet-stream"
+        sparkle:version="1.0.108-dev"
+        sparkle:shortVersionString="1.0.108-dev"
+      />
+    </item>
   </channel>
 </rss>
