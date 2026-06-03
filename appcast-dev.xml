@@ -902,5 +902,23 @@ Fix bugs and improve performance and stability.
         sparkle:shortVersionString="1.0.112-dev"
       />
     </item>
+    <item>
+      <title>Version 1.0.113-dev</title>
+      <pubDate>Wed, 03 Jun 2026 22:01:00 +0700</pubDate>
+      <sparkle:fullReleaseNotesLink>https://github.com/CopyFixApp/CopyFixReleases/releases</sparkle:fullReleaseNotesLink>
+      <description sparkle:descriptionFormat="html"><![CDATA[
+<ul>
+  <li>Refined the user experience and improved performance and stability.</li>
+</ul>
+
+      ]]></description>
+      <enclosure
+        url="https://github.com/CopyFixApp/CopyFixReleases/releases/download/v1.0.113-dev/CopyFix.zip"
+        sparkle:edSignature="BLu68owXAvtm3rjwFzbDkbyervWt34cyNhb2PXRHSJ+2rAS2Rh+9GdaB9Dlg0ZRFzy9lGDODeMob6YMaiFqvCA==" length="8473727"
+        type="application/octet-stream"
+        sparkle:version="1.0.113-dev"
+        sparkle:shortVersionString="1.0.113-dev"
+      />
+    </item>
   </channel>
 </rss>
