@@ -909,8 +909,8 @@ Fix bugs and improve performance and stability.
       />
     </item>
     <item>
-      <title>Version 1.0.114-dev</title>
-      <pubDate>Thu, 04 Jun 2026 14:37:55 +0700</pubDate>
+      <title>Version 1.0.118-dev</title>
+      <pubDate>Thu, 04 Jun 2026 19:53:27 +0700</pubDate>
       <description sparkle:descriptionFormat="html"><![CDATA[
 <ul>
   <li>Refined the user experience and improved performance and stability.</li>
@@ -918,62 +918,11 @@ Fix bugs and improve performance and stability.
 
       ]]></description>
       <enclosure
-        url="https://github.com/CopyFixApp/CopyFixReleases/releases/download/v1.0.114-dev/CopyFix.zip"
-        sparkle:edSignature="dvKaD+pYMy8vDTKGPHAWKOiz2HFXBs8q0JWxxx+KAM8N87a8URbPSt1h2wYib5E3QuYD4vY95qw1HdQYSgUCAg==" length="8495606"
+        url="https://github.com/CopyFixApp/CopyFixReleases/releases/download/v1.0.118-dev/CopyFix.zip"
+        sparkle:edSignature="pvFG18A2c29MjDDySWBh+lnSrJ3lMXVbBoG/GluL8EL84DchIFHsiOqIZbEskjXlE+vo9VOIugM3uhlp300AAg==" length="8499694"
         type="application/octet-stream"
-        sparkle:version="1.0.114-dev"
-        sparkle:shortVersionString="1.0.114-dev"
-      />
-    </item>
-    <item>
-      <title>Version 1.0.115-dev</title>
-      <pubDate>Thu, 04 Jun 2026 14:49:17 +0700</pubDate>
-      <description sparkle:descriptionFormat="html"><![CDATA[
-<ul>
-  <li>Refined the user experience and improved performance and stability.</li>
-</ul>
-
-      ]]></description>
-      <enclosure
-        url="https://github.com/CopyFixApp/CopyFixReleases/releases/download/v1.0.115-dev/CopyFix.zip"
-        sparkle:edSignature="9CNe5XmiK8YE1JKdOvjww1k9DI8zfQmJs29jSXgvdPjEj3CojVfVGxtzpgaExrvUQQRwQzmExuX3Up7zwF/KCw==" length="8496505"
-        type="application/octet-stream"
-        sparkle:version="1.0.115-dev"
-        sparkle:shortVersionString="1.0.115-dev"
-      />
-    </item>
-    <item>
-      <title>Version 1.0.116-dev</title>
-      <pubDate>Thu, 04 Jun 2026 15:11:09 +0700</pubDate>
-      <description sparkle:descriptionFormat="html"><![CDATA[
-<ul>
-  <li>Refined the user experience and improved performance and stability.</li>
-</ul>
-
-      ]]></description>
-      <enclosure
-        url="https://github.com/CopyFixApp/CopyFixReleases/releases/download/v1.0.116-dev/CopyFix.zip"
-        sparkle:edSignature="hzeA1mLsShXX4KOppyFywtarsQNXs9HArmefDuuuCCr9Irof5vNvKCS+A1EtYiqwLc/roMWijsutWds5ok7HDw==" length="8498851"
-        type="application/octet-stream"
-        sparkle:version="1.0.116-dev"
-        sparkle:shortVersionString="1.0.116-dev"
-      />
-    </item>
-    <item>
-      <title>Version 1.0.117-dev</title>
-      <pubDate>Thu, 04 Jun 2026 15:24:33 +0700</pubDate>
-      <description sparkle:descriptionFormat="html"><![CDATA[
-<ul>
-  <li>Refined the user experience and improved performance and stability.</li>
-</ul>
-
-      ]]></description>
-      <enclosure
-        url="https://github.com/CopyFixApp/CopyFixReleases/releases/download/v1.0.117-dev/CopyFix.zip"
-        sparkle:edSignature="GO9AMTiB1oGI5cSuaiF5ipw3Ugppyrk1xhExMwMIHadLk94KqaCAKXWa4Bv8zNY0cJM63kvB50/Fb2fBobWQCw==" length="8498832"
-        type="application/octet-stream"
-        sparkle:version="1.0.117-dev"
-        sparkle:shortVersionString="1.0.117-dev"
+        sparkle:version="1.0.118-dev"
+        sparkle:shortVersionString="1.0.118-dev"
       />
     </item>
   </channel>
