@@ -723,7 +723,6 @@
     <item>
       <title>Version 1.0.102-dev</title>
       <pubDate>Mon, 25 May 2026 01:00:26 +0700</pubDate>
-      <sparkle:fullReleaseNotesLink>https://github.com/CopyFixApp/CopyFixReleases/releases</sparkle:fullReleaseNotesLink>
       <description sparkle:descriptionFormat="plain-text"><![CDATA[
 test
       ]]></description>
@@ -738,7 +737,6 @@ test
     <item>
       <title>Version 1.0.103-dev</title>
       <pubDate>Mon, 25 May 2026 01:04:33 +0700</pubDate>
-      <sparkle:fullReleaseNotesLink>https://github.com/CopyFixApp/CopyFixReleases/releases</sparkle:fullReleaseNotesLink>
       <description sparkle:descriptionFormat="plain-text"><![CDATA[
 test2
       ]]></description>
@@ -753,7 +751,6 @@ test2
     <item>
       <title>Version 1.0.104-dev</title>
       <pubDate>Tue, 26 May 2026 01:21:20 +0700</pubDate>
-      <sparkle:fullReleaseNotesLink>https://github.com/CopyFixApp/CopyFixReleases/releases</sparkle:fullReleaseNotesLink>
       <description sparkle:descriptionFormat="plain-text"><![CDATA[
 Fix bugs and improve performance and stability.
       ]]></description>
@@ -768,7 +765,6 @@ Fix bugs and improve performance and stability.
     <item>
       <title>Version 1.0.105-dev</title>
       <pubDate>Thu, 28 May 2026 00:18:55 +0700</pubDate>
-      <sparkle:fullReleaseNotesLink>https://github.com/CopyFixApp/CopyFixReleases/releases</sparkle:fullReleaseNotesLink>
       <description sparkle:descriptionFormat="plain-text"><![CDATA[
 Fix bugs and improve performance and stability.
       ]]></description>
@@ -783,7 +779,6 @@ Fix bugs and improve performance and stability.
     <item>
       <title>Version 1.0.106-dev</title>
       <pubDate>Thu, 28 May 2026 00:40:10 +0700</pubDate>
-      <sparkle:fullReleaseNotesLink>https://github.com/CopyFixApp/CopyFixReleases/releases</sparkle:fullReleaseNotesLink>
       <description sparkle:descriptionFormat="plain-text"><![CDATA[
 Fix bugs and improve performance and stability.
       ]]></description>
@@ -798,7 +793,6 @@ Fix bugs and improve performance and stability.
     <item>
       <title>Version 1.0.107-dev</title>
       <pubDate>Thu, 28 May 2026 10:43:27 +0700</pubDate>
-      <sparkle:fullReleaseNotesLink>https://github.com/CopyFixApp/CopyFixReleases/releases</sparkle:fullReleaseNotesLink>
       <description sparkle:descriptionFormat="plain-text"><![CDATA[
 Fix bugs and improve performance and stability.
       ]]></description>
@@ -813,7 +807,6 @@ Fix bugs and improve performance and stability.
     <item>
       <title>Version 1.0.108-dev</title>
       <pubDate>Sun, 31 May 2026 12:48:52 +0700</pubDate>
-      <sparkle:fullReleaseNotesLink>https://github.com/CopyFixApp/CopyFixReleases/releases</sparkle:fullReleaseNotesLink>
       <description sparkle:descriptionFormat="plain-text"><![CDATA[
 - Added source details for clipboard items, so you can see where something came from, including the app, window, page, file, or document when available.
 - Refined the user experience and improved performance and stability.
@@ -830,7 +823,6 @@ Fix bugs and improve performance and stability.
     <item>
       <title>Version 1.0.109-dev</title>
       <pubDate>Sun, 31 May 2026 13:27:15 +0700</pubDate>
-      <sparkle:fullReleaseNotesLink>https://github.com/CopyFixApp/CopyFixReleases/releases</sparkle:fullReleaseNotesLink>
       <description sparkle:descriptionFormat="html"><![CDATA[
 <ul>
   <li>Added source details for clipboard items, so you can see where something came from, including the app, window, page, file, or document when available.</li>
@@ -849,7 +841,6 @@ Fix bugs and improve performance and stability.
     <item>
       <title>Version 1.0.110-dev</title>
       <pubDate>Sun, 31 May 2026 17:22:52 +0700</pubDate>
-      <sparkle:fullReleaseNotesLink>https://github.com/CopyFixApp/CopyFixReleases/releases</sparkle:fullReleaseNotesLink>
       <description sparkle:descriptionFormat="html"><![CDATA[
 <ul>
   <li>Added source details for clipboard items, so you can see where something came from, including the app, window, page, file, or document when available.</li>
@@ -868,7 +859,6 @@ Fix bugs and improve performance and stability.
     <item>
       <title>Version 1.0.111-dev</title>
       <pubDate>Sun, 31 May 2026 18:24:13 +0700</pubDate>
-      <sparkle:fullReleaseNotesLink>https://github.com/CopyFixApp/CopyFixReleases/releases</sparkle:fullReleaseNotesLink>
       <description sparkle:descriptionFormat="html"><![CDATA[
 <ul>
   <li>Added source details for clipboard items, so you can see where something came from, including the app, window, page, file, or document when available.</li>
@@ -887,7 +877,6 @@ Fix bugs and improve performance and stability.
     <item>
       <title>Version 1.0.112-dev</title>
       <pubDate>Sun, 31 May 2026 19:53:38 +0700</pubDate>
-      <sparkle:fullReleaseNotesLink>https://github.com/CopyFixApp/CopyFixReleases/releases</sparkle:fullReleaseNotesLink>
       <description sparkle:descriptionFormat="html"><![CDATA[
 <ul>
   <li>Refined the user experience and improved performance and stability.</li>
@@ -905,7 +894,6 @@ Fix bugs and improve performance and stability.
     <item>
       <title>Version 1.0.113-dev</title>
       <pubDate>Wed, 03 Jun 2026 22:01:00 +0700</pubDate>
-      <sparkle:fullReleaseNotesLink>https://github.com/CopyFixApp/CopyFixReleases/releases</sparkle:fullReleaseNotesLink>
       <description sparkle:descriptionFormat="html"><![CDATA[
 <ul>
   <li>Refined the user experience and improved performance and stability.</li>
@@ -918,6 +906,23 @@ Fix bugs and improve performance and stability.
         type="application/octet-stream"
         sparkle:version="1.0.113-dev"
         sparkle:shortVersionString="1.0.113-dev"
+      />
+    </item>
+    <item>
+      <title>Version 1.0.114-dev</title>
+      <pubDate>Thu, 04 Jun 2026 14:37:55 +0700</pubDate>
+      <description sparkle:descriptionFormat="html"><![CDATA[
+<ul>
+  <li>Refined the user experience and improved performance and stability.</li>
+</ul>
+
+      ]]></description>
+      <enclosure
+        url="https://github.com/CopyFixApp/CopyFixReleases/releases/download/v1.0.114-dev/CopyFix.zip"
+        sparkle:edSignature="dvKaD+pYMy8vDTKGPHAWKOiz2HFXBs8q0JWxxx+KAM8N87a8URbPSt1h2wYib5E3QuYD4vY95qw1HdQYSgUCAg==" length="8495606"
+        type="application/octet-stream"
+        sparkle:version="1.0.114-dev"
+        sparkle:shortVersionString="1.0.114-dev"
       />
     </item>
   </channel>
