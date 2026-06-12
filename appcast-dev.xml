@@ -1061,5 +1061,22 @@ Fix bugs and improve performance and stability.
         sparkle:shortVersionString="1.0.126-dev"
       />
     </item>
+    <item>
+      <title>Version 1.0.127-dev</title>
+      <pubDate>Sat, 13 Jun 2026 00:33:26 +0700</pubDate>
+      <description sparkle:descriptionFormat="html"><![CDATA[
+<ul>
+  <li>Refined the user experience and improved performance and stability.</li>
+</ul>
+
+      ]]></description>
+      <enclosure
+        url="https://github.com/CopyFixApp/CopyFixReleases/releases/download/v1.0.127-dev/CopyFix.zip"
+        sparkle:edSignature="WDPuMXY8odrxKFT7skwVwRVnfTn4LL5KSOJ+MNqVxtm/LaBNGviH/4jnB8utC9KE1nCkxmygTJE8vyy1OpksCw==" length="8499780"
+        type="application/octet-stream"
+        sparkle:version="1.0.127-dev"
+        sparkle:shortVersionString="1.0.127-dev"
+      />
+    </item>
   </channel>
 </rss>
